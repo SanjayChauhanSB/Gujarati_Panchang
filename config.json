@@ -24,7 +24,7 @@
     "show_rashi_names": true,
     "show_nakshatra_details": true,
     "show_eclipse_details": true,
-    "show_monsoon_nakshatras": false,
+    "show_monsoon_nakshatras": true,
     "show_winds_folk_sayings": true,
     "show_information": true
   },
