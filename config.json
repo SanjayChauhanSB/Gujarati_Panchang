@@ -30,6 +30,6 @@
   },
   "festivals": {
     "version": 1,
-    "csv_url": "https://paiphimedia.com/gujarati_panchang/main/gujarati_festivals.csv"
+    "csv_url": "https://raw.githubusercontent.com/SanjayChauhanSB/Gujarati_Panchang/main/gujarati_festivals.csv"
   }
 }
