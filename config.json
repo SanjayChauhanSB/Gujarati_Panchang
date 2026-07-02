@@ -1,0 +1,35 @@
+{
+  "app_version": {
+    "min_version": "1.0.0",
+    "latest_version": "1.0.0",
+    "android_min_version": "1.0.0",
+    "android_latest_version": "1.0.0",
+    "ios_min_version": "1.0.0",
+    "ios_latest_version": "1.0.0",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.paiphimedia.gujaratipanchang",
+    "app_store_url": "https://apps.apple.com/us/app/id6782589612",
+    "message_gu": "એપનું નવું સંસ્કરણ ઉપલબ્ધ છે. નવીનતમ ગણતરીઓ અને પંચાંગ વિગતો મેળવવા માટે કૃપા કરીને એપ અપડેટ કરો.",
+    "message_en": "A new version of the app is available. Please update to get the latest panchang details and features."
+  },
+  "features": {
+    "show_choghadiya": true,
+    "show_shubh_muhurat": true,
+    "show_poonam_amavasya": true,
+    "show_ramapir_bar_beej": true,
+    "show_panchak_vichudo": true,
+    "show_astrology_calculators": true,
+    "show_birth_profile": true,
+    "show_baby_naming": true,
+    "show_couple_numerology": true,
+    "show_rashi_names": true,
+    "show_nakshatra_details": true,
+    "show_eclipse_details": true,
+    "show_monsoon_nakshatras": false,
+    "show_winds_folk_sayings": true,
+    "show_information": true
+  },
+  "festivals": {
+    "version": 1,
+    "csv_url": "https://paiphimedia.com/gujarati_panchang/main/gujarati_festivals.csv"
+  }
+}
